@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://carolinaherreraalegria-code.github.io/cereza-notas-de-origen/sitemap.xml
